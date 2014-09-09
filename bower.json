@@ -1,0 +1,25 @@
+{
+  "name": "sw-click-select",
+  "version": "0.0.1",
+  "description": "Select input value on click - simple helper directive for AngularJS",
+  "keywords": [
+    "select",
+    "input",
+    "angular"
+  ],
+  "authors": [
+    {
+      "name": "Jakub Burkiewicz",
+      "email": "jakub@burkiewicz.eu"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakubburkiewicz/sw-click-select"
+  },
+  "main": "sw-alerts.js",
+  "dependencies": {
+    "angular": ">=1"
+  }
+}
