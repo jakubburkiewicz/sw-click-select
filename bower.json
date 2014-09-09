@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/jakubburkiewicz/sw-click-select"
   },
-  "main": "sw-alerts.js",
+  "main": "sw-click-select.js",
   "dependencies": {
     "angular": ">=1"
   }
